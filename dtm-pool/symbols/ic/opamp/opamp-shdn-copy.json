@@ -1,0 +1,156 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "11b5d018-2d82-4c58-9433-7a0989d3d154": {
+            "position": [
+                -5000000,
+                -5000000
+            ]
+        },
+        "58723ebf-9231-4d13-a222-a51f445a0eab": {
+            "position": [
+                -5000000,
+                5000000
+            ]
+        },
+        "77002890-ff59-4d18-adcb-10b6d9c0bf54": {
+            "position": [
+                5000000,
+                0
+            ]
+        }
+    },
+    "lines": {
+        "037d8479-483b-4a36-b0a5-0de62ce430ab": {
+            "from": "11b5d018-2d82-4c58-9433-7a0989d3d154",
+            "layer": 0,
+            "to": "58723ebf-9231-4d13-a222-a51f445a0eab",
+            "width": 0
+        },
+        "1baab84d-2b97-4418-a71f-9afa633c6f45": {
+            "from": "58723ebf-9231-4d13-a222-a51f445a0eab",
+            "layer": 0,
+            "to": "77002890-ff59-4d18-adcb-10b6d9c0bf54",
+            "width": 0
+        },
+        "55424186-36cb-4507-97d3-9c5a92b42ab0": {
+            "from": "77002890-ff59-4d18-adcb-10b6d9c0bf54",
+            "layer": 0,
+            "to": "11b5d018-2d82-4c58-9433-7a0989d3d154",
+            "width": 0
+        }
+    },
+    "name": "Opamp with SHDN (Copy)",
+    "pins": {
+        "4563d34c-1a5b-4dd4-9341-2d7db062b464": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -7500000,
+                2500000
+            ]
+        },
+        "699a7841-e531-4f0c-9cb0-3a504556f1a8": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": false,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                7500000,
+                0
+            ]
+        },
+        "86a63b56-1dde-48c4-9a04-8f43bdccab59": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -7500000,
+                -2500000
+            ]
+        },
+        "96b53c87-176a-4b30-8fb2-9f8e9ba15e37": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "down",
+            "pad_visible": true,
+            "position": [
+                0,
+                -5000000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "197a3631-9853-4916-b80d-bf055e96e58e": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    1250000,
+                    3750000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        },
+        "8bc6d2ff-cdc0-43cd-ab38-03aa2d1cbc03": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    1250000,
+                    -3750000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "03dff11a-7ee3-4c84-ab6a-7113afbc110d",
+    "uuid": "5cf0896e-65f6-4c7c-9bd3-850fd0ce6d7f"
+}

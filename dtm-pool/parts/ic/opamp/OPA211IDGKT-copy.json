@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "OPA211IDGKT (Copy)"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/opa211.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1700517066370&ref_url=https%253A%252F%252Fwww.mouser.de%252F"
+    ],
+    "description": [
+        false,
+        "OPAx2211 1.1 nV/sqrt(Hz) Noise, Low Power, Precision Operational Amplifiers"
+    ],
+    "entity": "55f83dfa-8814-4718-a674-bb91456d8888",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "296377eb-20be-4260-8d88-27b59fe4bd58",
+    "package": "b40dcdf6-d586-4240-b97a-5fbca85d81b7",
+    "pad_map": {
+        "3771ef17-7996-4feb-bba8-60766f166894": {
+            "gate": "6bc163bf-5357-42cf-8eff-c55ff1e3be99",
+            "pin": "4563d34c-1a5b-4dd4-9341-2d7db062b464"
+        },
+        "469fb3e9-9ea2-4389-8f7d-1bed733e068a": {
+            "gate": "ab42d5e9-5824-4949-8959-cf65915ee22e",
+            "pin": "a8ba387d-1c68-4215-843f-9d669e48646d"
+        },
+        "5bafffdc-7e68-485f-b2ab-a912d445ed13": {
+            "gate": "6bc163bf-5357-42cf-8eff-c55ff1e3be99",
+            "pin": "86a63b56-1dde-48c4-9a04-8f43bdccab59"
+        },
+        "633c2c0a-d707-4664-8972-ace6afec8ccc": {
+            "gate": "6bc163bf-5357-42cf-8eff-c55ff1e3be99",
+            "pin": "96b53c87-176a-4b30-8fb2-9f8e9ba15e37"
+        },
+        "857090bb-4647-4a73-8a48-7f8690686a91": {
+            "gate": "6bc163bf-5357-42cf-8eff-c55ff1e3be99",
+            "pin": "699a7841-e531-4f0c-9cb0-3a504556f1a8"
+        },
+        "9496e7a3-20e7-4516-b325-bf915bcb4c18": {
+            "gate": "ab42d5e9-5824-4949-8959-cf65915ee22e",
+            "pin": "aacf2d55-cf04-4c20-89c5-61704ef771f7"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "opamp"
+    ],
+    "type": "part",
+    "uuid": "06e01033-f5a8-4cb0-8898-8dbe26b8e8a5",
+    "value": [
+        false,
+        ""
+    ]
+}

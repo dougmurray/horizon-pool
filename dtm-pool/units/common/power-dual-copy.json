@@ -1,0 +1,39 @@
+{
+    "manufacturer": "",
+    "name": "Dual power (Copy)",
+    "pins": {
+        "21a297a4-92c7-4b3b-beb4-0dd182afdbc1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "a8ba387d-1c68-4215-843f-9d669e48646d": {
+            "alt_names": {
+                "9251d5a5-6c95-552f-b241-a22c61860edf": {
+                    "direction": "power_input",
+                    "name": "Vdd"
+                }
+            },
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vcc",
+            "swap_group": 0
+        },
+        "aacf2d55-cf04-4c20-89c5-61704ef771f7": {
+            "alt_names": {
+                "9251d5a5-6c95-552f-b241-a22c61860edf": {
+                    "direction": "power_input",
+                    "name": "Vee"
+                }
+            },
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vss",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ce02988a-04f9-4a7a-a6e6-018fe2ff1277",
+    "version": 1
+}

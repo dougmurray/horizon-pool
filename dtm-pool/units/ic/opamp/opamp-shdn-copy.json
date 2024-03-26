@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "Opamp with SHDN (Copy)",
+    "pins": {
+        "4563d34c-1a5b-4dd4-9341-2d7db062b464": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "+",
+            "swap_group": 0
+        },
+        "699a7841-e531-4f0c-9cb0-3a504556f1a8": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "out",
+            "swap_group": 0
+        },
+        "86a63b56-1dde-48c4-9a04-8f43bdccab59": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "-",
+            "swap_group": 0
+        },
+        "96b53c87-176a-4b30-8fb2-9f8e9ba15e37": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SHDN",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "03dff11a-7ee3-4c84-ab6a-7113afbc110d"
+}

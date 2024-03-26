@@ -1,0 +1,57 @@
+{
+    "MPN": [
+        false,
+        "0731000114 (Copy)"
+    ],
+    "datasheet": [
+        false,
+        "https://www.molex.com/pdm_docs/sd/731000114_sd.pdf"
+    ],
+    "description": [
+        false,
+        "SMA Jack R/A PCB 50 Ohms Connector"
+    ],
+    "entity": "76fb05de-488e-4d4c-ad51-b49f6144b3bf",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Molex"
+    ],
+    "model": "eb161e47-9f8b-454d-9ae4-4fadf423fd96",
+    "package": "d3da1687-dff4-4b40-874b-11a75dd11167",
+    "pad_map": {
+        "17820f70-4a88-4266-a2c0-aae2a8a174bb": {
+            "gate": "7fbb1da2-7777-4835-add3-612b96b30e91",
+            "pin": "207305c6-2559-44f9-b056-ec6cc1fec55c"
+        },
+        "447e9349-c849-4c8b-b04d-d5f6138854d9": {
+            "gate": "7fbb1da2-7777-4835-add3-612b96b30e91",
+            "pin": "207305c6-2559-44f9-b056-ec6cc1fec55c"
+        },
+        "47729b93-0d79-41d5-baf0-bbcfddf74ec5": {
+            "gate": "7fbb1da2-7777-4835-add3-612b96b30e91",
+            "pin": "207305c6-2559-44f9-b056-ec6cc1fec55c"
+        },
+        "ae92e9c9-1044-4918-bff1-1ef9d5fb7c68": {
+            "gate": "7fbb1da2-7777-4835-add3-612b96b30e91",
+            "pin": "a01e0362-c2b2-4565-9588-bc920e201988"
+        },
+        "ee3581e9-914f-4ebe-a35b-1b26194cbd2d": {
+            "gate": "7fbb1da2-7777-4835-add3-612b96b30e91",
+            "pin": "207305c6-2559-44f9-b056-ec6cc1fec55c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "coaxial",
+        "connector",
+        "sma"
+    ],
+    "type": "part",
+    "uuid": "c2a4cbf9-3fc4-457b-9a25-b121fdabf4af",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "e5da453c-ba97-4fa0-8e05-5f6b4e026f87": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "6edce05e-7589-4355-8cfc-d6fc5d39e0fd"
+        }
+    },
+    "manufacturer": "",
+    "name": "Diode (Copy)",
+    "prefix": "D",
+    "tags": [
+        "diode",
+        "discrete"
+    ],
+    "type": "entity",
+    "uuid": "74605927-d5fc-4338-8b01-60ead74d6d90"
+}

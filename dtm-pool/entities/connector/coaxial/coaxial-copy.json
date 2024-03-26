@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "7fbb1da2-7777-4835-add3-612b96b30e91": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "4cd38207-d73b-486a-8965-5f3997a70176"
+        }
+    },
+    "manufacturer": "",
+    "name": "Coaxial connector (Copy)",
+    "prefix": "J",
+    "tags": [
+        "connector",
+        "generic"
+    ],
+    "type": "entity",
+    "uuid": "76fb05de-488e-4d4c-ad51-b49f6144b3bf"
+}

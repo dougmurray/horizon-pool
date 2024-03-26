@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "C1608 (Copy)"
+    ],
+    "datasheet": [
+        false,
+        "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer ceramic chip capacitor"
+    ],
+    "entity": "b255e064-f43c-4270-a49c-4e3ec1eb9f1a",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TDK"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "package": "81795ffc-a5af-441c-a8b4-4063a2d33bf5",
+    "pad_map": {
+        "5eb3d31f-6cc4-43f5-a1e0-6ff6d5834e89": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        },
+        "dbd0c5ca-3d47-4dc1-9012-bed19d601c53": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "cap",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "54287697-618f-4d9a-b59d-5deb585a5afb",
+    "value": [
+        false,
+        ""
+    ]
+}

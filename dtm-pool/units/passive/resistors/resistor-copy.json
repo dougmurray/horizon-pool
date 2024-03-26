@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Two-terminal resistor (Copy)",
+    "pins": {
+        "6a44037c-65e2-4876-9359-42890048841d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 1
+        },
+        "dda0ec99-5d70-4fbe-a8db-897542e7554e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 1
+        }
+    },
+    "type": "unit",
+    "uuid": "31ae29d3-6293-48c7-bc1d-dc7c90b2651c"
+}

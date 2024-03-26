@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "RMCF0603 (Copy)"
+    ],
+    "datasheet": [
+        false,
+        "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
+    ],
+    "description": [
+        false,
+        "General Purpose Thick Film Standard Power Resistor"
+    ],
+    "entity": "e04f2ef9-e9f0-4583-80ed-dd4742eb3127",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Stackpole"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "package": "5131c8cb-ece4-4771-9dbe-4eb30f39f548",
+    "pad_map": {
+        "63256dd2-2eab-46fe-9201-b2e553476e98": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "6dd73a26-6e83-43b6-8317-09836acef67d": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "passive",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "cc025cc1-6bf5-4057-9323-6bfdca2ea53c",
+    "value": [
+        false,
+        "base RMCF0603 resistor"
+    ],
+    "version": 1
+}

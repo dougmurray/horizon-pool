@@ -1,0 +1,24 @@
+{
+    "gates": {
+        "6bc163bf-5357-42cf-8eff-c55ff1e3be99": {
+            "name": "Main",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "03dff11a-7ee3-4c84-ab6a-7113afbc110d"
+        },
+        "ab42d5e9-5824-4949-8959-cf65915ee22e": {
+            "name": "Power",
+            "suffix": "P",
+            "swap_group": 0,
+            "unit": "16de8c8b-a864-46f4-9b9e-e297bdd871bd"
+        }
+    },
+    "manufacturer": "",
+    "name": "Opamp with SHDN (Copy)",
+    "prefix": "U",
+    "tags": [
+        "opamp"
+    ],
+    "type": "entity",
+    "uuid": "55f83dfa-8814-4718-a674-bb91456d8888"
+}

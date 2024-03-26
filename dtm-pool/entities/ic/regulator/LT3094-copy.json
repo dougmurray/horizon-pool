@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "ff544878-ec95-4887-9393-4be3b4349834": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3457d0e9-0940-460c-94dd-6807b2a6a55f"
+        }
+    },
+    "manufacturer": "Analog Devices",
+    "name": "LT3094 (Copy)",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "ldo",
+        "regulator"
+    ],
+    "type": "entity",
+    "uuid": "d6a8c0a4-4d0e-44b3-9804-969c5305d2f7"
+}
