@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "P-Channel JFET",
+    "pins": {
+        "667ac7dd-4d6c-4a59-88be-cb49124bd17a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "G",
+            "swap_group": 0
+        },
+        "a4059f5a-fe57-4240-9447-e80d6a32e64d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "D",
+            "swap_group": 0
+        },
+        "d9cd6c52-c36a-44f3-b57b-64556059e5e5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "S",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "632e756c-e914-49ac-bfd0-50d3e425479f"
+}

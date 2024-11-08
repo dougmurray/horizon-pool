@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "5e6f62c1-0293-4fb0-9c2e-e0bde5208a43": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "632e756c-e914-49ac-bfd0-50d3e425479f"
+        }
+    },
+    "manufacturer": "",
+    "name": "P-channel JFET",
+    "prefix": "Q",
+    "tags": [
+        "jfet"
+    ],
+    "type": "entity",
+    "uuid": "7f10ce97-834e-4194-a5d0-85e1c92fb86d"
+}
