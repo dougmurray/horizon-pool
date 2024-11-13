@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "EEV-FK1E332M"
+    ],
+    "base": "a263eba2-59b0-40b8-9eb3-3b33aef2eba8",
+    "datasheet": [
+        true,
+        "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"
+    ],
+    "description": [
+        true,
+        "FK Series Aluminum Electrolytic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Panasonic"
+    ],
+    "model": "b85f546e-2206-4c6e-ab45-181c0adf7fd1",
+    "orderable_MPNs": {
+        "ebe5ea90-aaa1-46b0-a75c-64d166122626": "EEVFK1E332M"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "0",
+        "type": "Electrolytic",
+        "value": "0.0033",
+        "wvdc": "25"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "e97d0c2b-6b38-46db-94c5-4c50f53de8c2",
+    "value": [
+        false,
+        "3300 µF"
+    ]
+}

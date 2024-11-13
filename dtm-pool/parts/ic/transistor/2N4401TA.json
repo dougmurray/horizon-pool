@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "2N4401TA"
+    ],
+    "datasheet": [
+        false,
+        "https://rocelec.widen.net/view/pdf/izahwonzju/ONSM-S-A0003587700-1.pdf?t.download=true&u=5oefqw"
+    ],
+    "description": [
+        false,
+        "2N4401/MMBT4401 NPN General-Purpose Amplifier"
+    ],
+    "entity": "15e94b7a-b7c9-4bf2-820c-11074dc0718e",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "120400f2-04ef-4cec-b49a-703e8613810b": "2N4401"
+    },
+    "package": "b5306011-d30f-49ae-9b98-c7dbae26f9dd",
+    "pad_map": {
+        "7e9e9df9-1be6-4f90-8c9a-96480afff399": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "e0809787-a91f-4e0c-af3b-ec4ff686941b": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "f7dd9e55-1731-4ae7-bf7a-8c7e9977760b": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "npn",
+        "thur",
+        "transistor"
+    ],
+    "type": "part",
+    "uuid": "9bf49e7b-2699-49ab-ad21-41341d1adcc7",
+    "value": [
+        false,
+        "2N4401"
+    ]
+}

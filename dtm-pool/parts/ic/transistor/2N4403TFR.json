@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "2N4403TFR"
+    ],
+    "datasheet": [
+        false,
+        "https://rocelec.widen.net/view/pdf/c6cjqzv8h4/ONSM-S-A0003587676-1.pdf?t.download=true&u=5oefqw"
+    ],
+    "description": [
+        false,
+        "2N4403/MMBT4403 PNP General-Purpose Amplifier"
+    ],
+    "entity": "f2443156-b218-4979-b244-20ef0bf2476a",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "1f3c561e-1645-44c5-b086-cf3d59575f5f": "2N4403"
+    },
+    "package": "b5306011-d30f-49ae-9b98-c7dbae26f9dd",
+    "pad_map": {
+        "7e9e9df9-1be6-4f90-8c9a-96480afff399": {
+            "gate": "40ce877c-ec96-4b42-acad-4860f7587fd1",
+            "pin": "7c4ac8a6-e267-48cd-89d5-28ed30de088a"
+        },
+        "e0809787-a91f-4e0c-af3b-ec4ff686941b": {
+            "gate": "40ce877c-ec96-4b42-acad-4860f7587fd1",
+            "pin": "6bd7bb7b-95c6-4ed4-9a71-55f5e3b72a92"
+        },
+        "f7dd9e55-1731-4ae7-bf7a-8c7e9977760b": {
+            "gate": "40ce877c-ec96-4b42-acad-4860f7587fd1",
+            "pin": "f915c514-c206-40fc-8a4a-46a259d4f80e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "pnp",
+        "thur",
+        "transistor"
+    ],
+    "type": "part",
+    "uuid": "88b814ab-2cce-40ee-913d-1e4aa8af8489",
+    "value": [
+        false,
+        "2N4403"
+    ]
+}
