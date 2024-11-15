@@ -1,0 +1,55 @@
+{
+    "MPN": [
+        false,
+        "SKA15A-12"
+    ],
+    "datasheet": [
+        false,
+        "https://www.meanwellusa.com/upload/pdf/SKA15/SKA15-spec.pdf"
+    ],
+    "description": [
+        false,
+        "Mean Well SKA15 Series 9.9 ~ 15 W DC-DC Regulated Single Output Converter Isolated"
+    ],
+    "entity": "fafb2d70-b0eb-48f0-a72d-af1a01660d55",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Traco Power"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "cde26ba3-3e5c-4f46-bb45-80d9540be57e",
+    "pad_map": {
+        "4c243276-82bb-40fe-8398-f9951a8ac154": {
+            "gate": "ad55d147-726d-4929-8ea8-a02d0d34fcda",
+            "pin": "3cd78e6a-b6a8-4fbb-b6f4-aac187a53929"
+        },
+        "5ae0cf1c-04ae-4674-850f-3acd995cb303": {
+            "gate": "ad55d147-726d-4929-8ea8-a02d0d34fcda",
+            "pin": "f9e695f5-c524-42e0-b865-87c6939c0b08"
+        },
+        "b8740a6b-a886-42b6-8c56-86384004783d": {
+            "gate": "ad55d147-726d-4929-8ea8-a02d0d34fcda",
+            "pin": "48cae255-03b0-4c9f-a043-d83acd4d54c0"
+        },
+        "c3a1054e-43e0-4051-a296-0a22c11eb35f": {
+            "gate": "ad55d147-726d-4929-8ea8-a02d0d34fcda",
+            "pin": "9415b5f7-c0a3-4311-9842-4999fcbfe41b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dcdc",
+        "ic",
+        "isolated",
+        "regulator",
+        "switchmode"
+    ],
+    "type": "part",
+    "uuid": "6da2a8fa-ca91-48ed-8610-cc75f8a7c1dc",
+    "value": [
+        false,
+        "12 V"
+    ]
+}

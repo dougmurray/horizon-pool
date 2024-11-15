@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "ad55d147-726d-4929-8ea8-a02d0d34fcda": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "23765a91-4b66-45d2-a935-6a11ebe29a0e"
+        }
+    },
+    "manufacturer": "Traco Power",
+    "name": "TRACO-SINGLE-REG",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "regulator"
+    ],
+    "type": "entity",
+    "uuid": "fafb2d70-b0eb-48f0-a72d-af1a01660d55"
+}

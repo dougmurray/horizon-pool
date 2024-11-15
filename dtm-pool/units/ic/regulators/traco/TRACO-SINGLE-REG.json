@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "TRACO-SINGLE-REG",
+    "pins": {
+        "3cd78e6a-b6a8-4fbb-b6f4-aac187a53929": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "48cae255-03b0-4c9f-a043-d83acd4d54c0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN",
+            "swap_group": 0
+        },
+        "9415b5f7-c0a3-4311-9842-4999fcbfe41b": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VOUT",
+            "swap_group": 0
+        },
+        "f9e695f5-c524-42e0-b865-87c6939c0b08": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "COMM",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "23765a91-4b66-45d2-a935-6a11ebe29a0e"
+}

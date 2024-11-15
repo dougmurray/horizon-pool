@@ -1,0 +1,63 @@
+{
+    "MPN": [
+        false,
+        "PDQ30-Q24-D12-D"
+    ],
+    "datasheet": [
+        false,
+        "https://www.cui.com/product/resource/pdq30-d.pdf"
+    ],
+    "description": [
+        false,
+        "CUI PDQ30-D DC-DC Converter Isolated"
+    ],
+    "entity": "90c0acb0-450c-4d58-b8a7-55b30d82882c",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "CUI"
+    ],
+    "model": "ffb99d5e-8dbe-460d-90d4-789cffd4fb34",
+    "package": "e80a2752-ba44-4f90-8682-559cc337df9d",
+    "pad_map": {
+        "57024e16-e9ba-4cd6-971c-e11a8b8c4d34": {
+            "gate": "ad55d147-726d-4929-8ea8-a02d0d34fcda",
+            "pin": "f9e695f5-c524-42e0-b865-87c6939c0b08"
+        },
+        "5de1834b-ebc1-45de-a98b-4f5ab2b2d403": {
+            "gate": "ad55d147-726d-4929-8ea8-a02d0d34fcda",
+            "pin": "cd21352f-d51e-4432-979e-9aee762b7d35"
+        },
+        "6323dd34-fef2-435d-adce-759a6061ff05": {
+            "gate": "ad55d147-726d-4929-8ea8-a02d0d34fcda",
+            "pin": "f9259e5f-d63e-4ab0-ab79-e583d8a32d81"
+        },
+        "91c75893-ee67-45c3-a428-bcbb34567d62": {
+            "gate": "ad55d147-726d-4929-8ea8-a02d0d34fcda",
+            "pin": "9415b5f7-c0a3-4311-9842-4999fcbfe41b"
+        },
+        "f19c0fa7-4c0b-433a-bbe0-487e282e6d56": {
+            "gate": "ad55d147-726d-4929-8ea8-a02d0d34fcda",
+            "pin": "3cd78e6a-b6a8-4fbb-b6f4-aac187a53929"
+        },
+        "f96f8916-fbbd-4e6f-969f-ab81723b10ee": {
+            "gate": "ad55d147-726d-4929-8ea8-a02d0d34fcda",
+            "pin": "48cae255-03b0-4c9f-a043-d83acd4d54c0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dcdc",
+        "ic",
+        "isolated",
+        "regulator",
+        "switchmode"
+    ],
+    "type": "part",
+    "uuid": "df4ae320-0f84-4e00-b370-a8a5eaf6ebcf",
+    "value": [
+        false,
+        "+/-12 V"
+    ]
+}
