@@ -1,0 +1,46 @@
+{
+    "MPN": [
+        false,
+        "BH9VPC"
+    ],
+    "datasheet": [
+        false,
+        "https://www.memoryprotectiondevices.com/datasheets/BH9VPC/BH9VPC-datasheet.pdf"
+    ],
+    "description": [
+        false,
+        "9 Volt Battery Holder with PC Pins"
+    ],
+    "entity": "cc74cd32-a7da-494d-a91c-27b70f9450f4",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "MPD"
+    ],
+    "model": "80d56eca-d32a-4ada-a192-730975f45843",
+    "package": "d7e28939-0b5c-44b5-acd9-a7b34cc18192",
+    "pad_map": {
+        "2747b090-4097-4d4c-818b-0bd8ae70fcb4": {
+            "gate": "eeaa4f0e-5ec8-41e9-bd98-985a4a48234f",
+            "pin": "8d400332-04db-4d9d-b3c2-1f398b577fcd"
+        },
+        "289b6220-35d2-4314-b089-b156a096c5db": {
+            "gate": "eeaa4f0e-5ec8-41e9-bd98-985a4a48234f",
+            "pin": "c7dd1271-5537-4db1-ac39-2664fdaf7af2"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "battery",
+        "connector",
+        "passive",
+        "thur"
+    ],
+    "type": "part",
+    "uuid": "dad2c840-88cc-4522-9d3e-00d8330c4c90",
+    "value": [
+        false,
+        "9 V"
+    ]
+}
