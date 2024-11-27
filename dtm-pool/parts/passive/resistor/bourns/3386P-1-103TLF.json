@@ -1,0 +1,55 @@
+{
+    "MPN": [
+        false,
+        "3386P-1-103TLF"
+    ],
+    "datasheet": [
+        false,
+        "https://www.bourns.com/docs/Product-Datasheets/3386.pdf"
+    ],
+    "description": [
+        false,
+        "2286 3/8\" Square Trimpot Trimming Potentiometer"
+    ],
+    "entity": "3c079de8-b289-4756-b999-13e96ca302a4",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "c89a51fe-9faa-40c4-9ef2-0f8001135fd4",
+    "package": "82be8587-aa64-4d9e-8e3f-654847550482",
+    "pad_map": {
+        "12666b02-8583-43ac-afbe-30dbc3a240ce": {
+            "gate": "08facd8d-9fba-4897-8b71-c8d1c8faac70",
+            "pin": "1eaa7e7f-b9b6-4538-b736-3732435e3a71"
+        },
+        "13023ba8-4038-4348-83b1-aa40f67b8d18": {
+            "gate": "08facd8d-9fba-4897-8b71-c8d1c8faac70",
+            "pin": "2ef079b9-8122-4cdc-badd-d141e58f56d0"
+        },
+        "5e14d2f4-65ab-4488-9210-34f5da4763cf": {
+            "gate": "08facd8d-9fba-4897-8b71-c8d1c8faac70",
+            "pin": "bf8a882a-173d-4077-9201-6bb24a454768"
+        }
+    },
+    "parametric": {
+        "pmax": "0.5",
+        "table": "resistors",
+        "tolerance": "0",
+        "value": "10000"
+    },
+    "tags": [
+        "passive",
+        "potentiometer",
+        "resistor",
+        "thur"
+    ],
+    "type": "part",
+    "uuid": "36290edd-3a42-46c6-b375-42a2f50b6822",
+    "value": [
+        false,
+        "10 kΩ"
+    ]
+}
