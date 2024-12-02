@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "296377eb-20be-4260-8d88-27b59fe4bd58",
+    "default_model": "53df97a6-1159-45f3-8fb6-4059e811bb51",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -127,10 +127,10 @@
     },
     "manufacturer": "Texas Instruments",
     "models": {
-        "296377eb-20be-4260-8d88-27b59fe4bd58": {
-            "filename": "3d_models/ic/ti/DGK0008A.stp",
+        "53df97a6-1159-45f3-8fb6-4059e811bb51": {
+            "filename": "3d_models/OPA2140AIDGKT.step",
             "pitch": 0,
-            "roll": 0,
+            "roll": 49152,
             "x": 0,
             "y": 0,
             "yaw": 0,
