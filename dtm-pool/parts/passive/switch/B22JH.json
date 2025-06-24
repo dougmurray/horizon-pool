@@ -1,0 +1,69 @@
+{
+    "MPN": [
+        false,
+        "B22JH"
+    ],
+    "datasheet": [
+        false,
+        "https://www.nkkswitches.com/pdf/Btoggles.pdf"
+    ],
+    "description": [
+        false,
+        "Series B Process Sealed Subminiature Antistatic Toggles"
+    ],
+    "entity": "c6b95def-90f5-4ce9-9743-9c33a70be499",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "NKK"
+    ],
+    "model": "76895250-1391-4d13-97b4-a230e4cd7702",
+    "package": "9989ef3c-f20c-44db-8d4a-2719afbe32c3",
+    "pad_map": {
+        "1744eb63-7d51-4935-a147-9d52eeb526b9": {
+            "gate": "a6065f97-c3ab-4d25-8cbc-825059d46c05",
+            "pin": "b3567d95-bff9-4473-ba25-2ba73c2dc90c"
+        },
+        "1d62d502-3666-4751-983e-fcb0d53e5282": {
+            "gate": "a6065f97-c3ab-4d25-8cbc-825059d46c05",
+            "pin": "4b7f94ae-d47a-49e8-a94c-524f3f599654"
+        },
+        "42e1dbb8-92da-46a3-a410-83e43d907533": {
+            "gate": "a6065f97-c3ab-4d25-8cbc-825059d46c05",
+            "pin": "90ae4958-4204-4e5b-8924-cf60d0f58bbf"
+        },
+        "4e12690f-5168-475b-a133-afe1f1362fdf": {
+            "gate": "a6065f97-c3ab-4d25-8cbc-825059d46c05",
+            "pin": "3df2bc26-ee22-4f27-8ca9-403a9568c49d"
+        },
+        "757af7ad-2cb7-4f20-9e97-fb0332fee642": {
+            "gate": "a6065f97-c3ab-4d25-8cbc-825059d46c05",
+            "pin": "83c0970d-c2d1-4fb0-89c5-94e361dc1ff5"
+        },
+        "90c0becb-4a33-441b-98a2-7736e3fdac10": {
+            "gate": "a6065f97-c3ab-4d25-8cbc-825059d46c05",
+            "pin": "9fbb215f-ba9d-4360-baf6-809a84b9aca3"
+        },
+        "c06cfc82-d835-4aa0-910e-25c5a6549b32": {
+            "gate": "a6065f97-c3ab-4d25-8cbc-825059d46c05",
+            "pin": "4b7f94ae-d47a-49e8-a94c-524f3f599654"
+        },
+        "f85b6646-7cb4-43ef-88dc-f71e70fa852d": {
+            "gate": "a6065f97-c3ab-4d25-8cbc-825059d46c05",
+            "pin": "4ad2c346-341b-466a-8bc3-678737c9d006"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dpdt",
+        "switch",
+        "toggle"
+    ],
+    "type": "part",
+    "uuid": "d06c571e-dfe3-4e6f-82ee-b9e61861fe10",
+    "value": [
+        false,
+        ""
+    ]
+}

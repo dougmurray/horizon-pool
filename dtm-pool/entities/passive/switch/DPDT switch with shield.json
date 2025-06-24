@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "a6065f97-c3ab-4d25-8cbc-825059d46c05": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8242e63c-fec8-40fa-b8b8-c851d7b999fd"
+        }
+    },
+    "manufacturer": "",
+    "name": "DPDT switch with shield",
+    "prefix": "S",
+    "tags": [
+        "dpdt",
+        "switch"
+    ],
+    "type": "entity",
+    "uuid": "c6b95def-90f5-4ce9-9743-9c33a70be499"
+}
